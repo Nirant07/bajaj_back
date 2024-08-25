@@ -9,7 +9,7 @@ const userSchema = new Schema({
     user_id: {
         type: String,
         required: true,
-        default: 'mehul_agarwal_10102001'
+        default: 'nirant_dekate_07082003'
     },
     email: {
         type: String,
